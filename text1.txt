@@ -1,0 +1,15 @@
+
+_id
+64de9b310b5892615a8e6cf2
+name
+"Annie Frank, Diary of a Young girl"
+author
+"annie frank"
+pages
+600
+rating
+6
+
+
+This is the appended text
+This is the appended text
